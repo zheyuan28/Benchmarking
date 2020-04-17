@@ -1,0 +1,17 @@
+*#*#
+*.#*
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.pyo
+*.swp
+*~
+.idea/
+.idea_modules/
+.project
+.scala_dependencies
+.settings
+/lib/
+target
+project
